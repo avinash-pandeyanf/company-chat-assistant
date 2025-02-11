@@ -53,7 +53,7 @@ A Flask-based web application that answers natural language queries about compan
 2. Open your browser and navigate to `http://localhost:8080`
 
 3. Type your questions in natural language, for example:
-   - "Who works in the Sales department?"
-   - "When was John Smith hired?"
-   - "What is the total salary expense for IT?"
+   - "Show me all employees in the sales department."
+   - "Who is the manager of the marketing department?"
+   - "What is the total salary expense for the sales department?"
 
