@@ -57,12 +57,3 @@ A Flask-based web application that answers natural language queries about compan
    - "When was John Smith hired?"
    - "What is the total salary expense for IT?"
 
-## Project Structure
-
-company-chat-assistant/
-├── app.py              # Main Flask application
-├── init_db.py         # Database initialization script
-├── database.db        # SQLite database
-├── static/           # Static assets
-├── templates/        # HTML templates
-└── requirements.txt  # Python dependencies
